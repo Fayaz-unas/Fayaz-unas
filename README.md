@@ -57,7 +57,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏠 <a href="https://github.com/Fayaz-unas/Hostel-Management">Hostel Management</a></h3>
+      <h3>🏠 <a href="https://github.com/Fayaz-unas/Hostel-Management">Campus Hostel Automation</a></h3>
       <p><em>Operations Streamlining</em></p>
       <img src="https://img.shields.io/badge/Status-Stable-success?style=flat-square&logo=github" />
       <ul>
